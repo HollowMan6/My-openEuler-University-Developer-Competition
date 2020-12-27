@@ -13,14 +13,14 @@
 
 这里是我的"openEuler 高校开发者大赛"活动记录与成果
 
-|  年份   |  项目名称  |  项目议题  |  入选名单  |  申请材料  |  项目仓库  | 项目记录 |
-|  ----  | ----  |  ----  | ----  | ----  | ----  |  ----  |
-| [2020](https://www.oschina.net/2020-openeuler)  | 59、python编写更新提醒软件 | [点此访问](https://www.oschina.net/question/4469669_2319955)  |[点此访问](https://www.oschina.net/news/123608) | [点此访问](2020/Project%20Proposal.pdf) | 准备中，预计4月初开源 | 正在做 |
+|  年份   |  项目名称  |  项目议题  |  入选名单  |  申请材料  |
+|  ----  | ----  |  ----  | ----  | ----  |
+| [2020](https://www.oschina.net/2020-openeuler)  | 59、python编写更新提醒软件 | [点此访问](https://www.oschina.net/question/4469669_2319955)  |[点此访问](https://www.oschina.net/news/123608) | [点此访问](2020/Project%20Proposal.pdf) |
 
 # My openEuler University Developer Competition
 
 This is my work and record under openEuler University Developer Competition.(All the announcements are in Chinese)
 
-|  Year   |  Project Name   | Project Issue |  Entering List  |  Application Material  | Project Repository  |  Project Log |
-|  ----  | ----  |  ----  | ---- | ----  | ----  |  ----  | 
-| [2020](https://www.oschina.net/2020-openeuler)  | 59, using python to realize a package update notifying software with yum/dnf | [Click here to visit](https://www.oschina.net/question/4469669_2319955)  |[Click here to visit](https://www.oschina.net/news/123608) | [Click here to visit](2020/Project%20Proposal.pdf) | Preparing，expect to open source in April | Coding |
+|  Year   |  Project Name   | Project Issue |  Entering List  |  Application Material  |
+|  ----  | ----  |  ----  | ---- | ----  |
+| [2020](https://www.oschina.net/2020-openeuler)  | 59, using python to realize a package update notifying software with yum/dnf | [Click here to visit](https://www.oschina.net/question/4469669_2319955)  |[Click here to visit](https://www.oschina.net/news/123608) | [Click here to visit](2020/Project%20Proposal.pdf) |
