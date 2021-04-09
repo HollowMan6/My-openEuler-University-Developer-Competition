@@ -13,14 +13,14 @@
 
 这里是我的"openEuler 高校开发者大赛"活动记录与成果
 
-|  年份   |  项目名称  |  项目议题  |  入选名单  |  申请材料  |
-|  ----  | ----  |  ----  | ----  | ----  |
-| [2020](https://www.oschina.net/2020-openeuler)  | 59、python编写更新提醒软件 | [点此访问](https://www.oschina.net/question/4469669_2319955)  |[点此访问](https://www.oschina.net/news/123608) | [点此访问](2020/Project%20Proposal.pdf) |
+|  年份   |  项目名称  |  项目议题  |  申请材料  | 队伍编号 | 队伍名称 | 复赛入选名单 | 决赛入选名单 | 复赛评审意见 |
+|  ----  | ----  |  ----  | ----  | ----  | ---- | ---- | ---- | ---- |
+| [2020](https://www.oschina.net/2020-openeuler)  | 59、python编写更新提醒软件 | [点此访问](https://www.oschina.net/question/4469669_2319955) | [点此访问](2020/Project%20Proposal.pdf) | (个人参赛) 1798858424 | Hollow Man | [点此访问](https://www.oschina.net/news/123608) | 19/80 [点此访问](https://my.oschina.net/u/4469669/blog/5014377) | [点此访问](https://gitee.com/openeuler-competition/topics-2020/blob/master/ReviewOpinionForRematch/2020%20openEuler%E9%AB%98%E6%A0%A1%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B-%E8%AF%84%E5%88%86%E5%8F%8A%E8%AF%84%E5%AE%A1%E6%84%8F%E8%A7%81.xlsx) |
 
 # My openEuler University Developer Competition
 
 This is my work and record under openEuler University Developer Competition.(All the announcements are in Chinese)
 
-|  Year   |  Project Name   | Project Issue |  Entering List  |  Application Material  |
-|  ----  | ----  |  ----  | ---- | ----  |
-| [2020](https://www.oschina.net/2020-openeuler)  | 59, using python to realize a package update notifying software with yum/dnf | [Click here to visit](https://www.oschina.net/question/4469669_2319955)  |[Click here to visit](https://www.oschina.net/news/123608) | [Click here to visit](2020/Project%20Proposal.pdf) |
+|  Year   |  Project Name   | Project Issue |  Application Material  | Team Number | Team Name |  Rematch Entering List  | Final Entering List | Rematch Review Opinion |
+|  ----  | ----  |  ----  | ----  | ----  | ---- | ---- | ---- | ---- |
+| [2020](https://www.oschina.net/2020-openeuler)  | 59, using python to realize a package update notifying software with yum/dnf | [Click here to visit](https://www.oschina.net/question/4469669_2319955) | [Click here to visit](2020/Project%20Proposal.pdf) | (Personal Competition) 1798858424 | Hollow Man | [Click here to visit](https://www.oschina.net/news/123608) | 19/80 [Click here to visit](https://my.oschina.net/u/4469669/blog/5014377) | [Click here to visit](https://gitee.com/openeuler-competition/topics-2020/blob/master/ReviewOpinionForRematch/2020%20openEuler%E9%AB%98%E6%A0%A1%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E8%B5%9B-%E8%AF%84%E5%88%86%E5%8F%8A%E8%AF%84%E5%AE%A1%E6%84%8F%E8%A7%81.xlsx) |
