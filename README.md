@@ -11,7 +11,9 @@
 [![GPL Licence](https://img.shields.io/badge/license-GPL-blue)](https://opensource.org/licenses/GPL-3.0/)
 [![Repo-Size](https://img.shields.io/github/repo-size/HollowMan6/My-openEuler-University-Developer-Competition.svg)](../../archive/master.zip)
 
-这里是我的"openEuler 高校开发者大赛"活动记录与成果
+这里是我的"openEuler 高校开发者大赛"活动记录与成果。
+
+[2020 openEuler 高校开发者大赛获奖名单公布，28支团队获奖](https://mp.weixin.qq.com/s/MLt8YQRuwHwFxEND_WiYPQ)
 
 |  年份   |  项目名称  |  难度系数  |  项目议题  |  申请材料  | 队伍编号 | 队伍名称 | 仓库地址 | 复赛入选名单 | 决赛入选名单 | 复赛评审意见 | 决赛奖项 | 决赛答辩成绩 |
 |  ----  | ----  |  ----  | ----  | ----  | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -20,6 +22,8 @@
 # My openEuler University Developer Competition
 
 This is my work and record under openEuler University Developer Competition.(All the announcements are in Chinese)
+
+[2020 openEuler University Developer Competition Winners has been Announced, 28 teams are awarded prizes](https://mp.weixin.qq.com/s/MLt8YQRuwHwFxEND_WiYPQ)
 
 |  Year   |  Project Name  |  Difficult Level  | Project Issue |  Application Material  | Team Number | Team Name | Project Repository | Rematch Entering List  | Final Entering List | Rematch Review Opinion | Final Award | Final Oral Defense Marks |
 |  ----  | ----  |  ----  | ----  | ----  | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
