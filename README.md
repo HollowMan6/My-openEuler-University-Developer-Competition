@@ -11,6 +11,8 @@
 [![GPL Licence](https://img.shields.io/badge/license-GPL-blue)](https://opensource.org/licenses/GPL-3.0/)
 [![Repo-Size](https://img.shields.io/github/repo-size/HollowMan6/My-openEuler-University-Developer-Competition.svg)](../../archive/master.zip)
 
+![](https://hollowman6.github.io/img/badges/2020-openEuler.jpg)
+
 这里是我的"openEuler 高校开发者大赛"活动记录与成果。
 
 [2020 openEuler 高校开发者大赛获奖名单公布，28支团队获奖](https://mp.weixin.qq.com/s/MLt8YQRuwHwFxEND_WiYPQ)
